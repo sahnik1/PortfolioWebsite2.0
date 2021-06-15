@@ -1,0 +1,7 @@
+.App {
+  text-align: center;
+}
+
+.ui.inverted.blue.button .ui.blue.button {
+  box-shadow: 0 0 0 0 transparent !important;
+}

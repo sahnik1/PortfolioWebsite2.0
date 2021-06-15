@@ -1,0 +1,23 @@
+{
+  "name": "resume_web",
+  "version": "0.0.1",
+  "description": "Personal Website featuring my various software skills and resume.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/github.com/sahnik1.git"
+  },
+  "keywords": [
+    "resume",
+    "portfolio"
+  ],
+  "author": "Karanjot S",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/github.com/sahnik1/issues"
+  },
+  "homepage": "https://github.com/github.com/sahnik1#readme"
+}
